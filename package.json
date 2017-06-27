@@ -1,0 +1,25 @@
+{
+  "name": "blueberry-markdown-manager",
+  "version": "1.0.0",
+  "description": "A simple markdown manager for Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "blueberry",
+    "markdown",
+    "manager",
+    "mac",
+    "windows"
+  ],
+  "author": "Shiv Sakhuja",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "brucedown": "^1.1.1",
+    "electron-connect": "^0.6.1",
+  }
+}
